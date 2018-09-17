@@ -4,6 +4,8 @@ Raw logs from "Civil Status Management Module" (CSMM) of "Software for public se
 
 The data are available under the ODC Open Database License (ODbL), see below for more information.
 
+
+------
 ## ODC Open Database License (ODbL)
 
 ### Preamble
